@@ -1,6 +1,6 @@
 /.vscode/
 
-/resources/
+/resources/*.jpg.txt
 
 format
 out.c
